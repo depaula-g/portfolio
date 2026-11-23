@@ -51,7 +51,7 @@ Aplicar na prática os conhecimentos adquiridos durante minha formação técnic
 
 O portfólio poderá ser acessado diretamente pelo navegador após sua publicação no GitHub Pages.
 
-🔗 **[Visualizar meu portfólio](LINK_DO_SEU_SITE)**
+🔗 **[Visualizar meu portfólio](https://depaula-g.github.io/portfolio/)**
 
 ## 📬 Contato
 
